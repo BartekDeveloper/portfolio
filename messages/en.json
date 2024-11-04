@@ -1,0 +1,12 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "me": "me",
+  "blog": "blog",
+  "projects": "projects",
+  "contact": "contact",
+  "about": "about",
+  "home": "home",
+  "portfolio": "portfolio",
+  "search": "search",
+  "searchPlaceholder": "Search"
+}
